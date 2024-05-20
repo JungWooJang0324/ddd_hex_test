@@ -22,7 +22,7 @@ Hexagonal Architecture는 포트와 어댑터로 구성되어 있어, 시스템�
 
 
 ### 디렉터리 구조
-
+```
 src/main/java/com/example/school
 ├── SchoolApplication.java
 ├── domain
@@ -42,8 +42,7 @@ src/main/java/com/example/school
 └── adapter
 └── web
 └── StudentController.java
-
-
+```
 
 
 ## 사용된 도구 및 환경
